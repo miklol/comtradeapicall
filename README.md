@@ -20,16 +20,16 @@ folders follows the suggested layout from [Packaging Python Project](https://pac
 
 ## Features & Interface
 
-![Dashboard](https://github.com/user-attachments/assets/dashboard-placeholder.png)
+![Dashboard](./vite-comtrade-explorer/src/assets/dashboard.png)
 _Dashboard Overview_
 
-![Trade Query](https://github.com/user-attachments/assets/query-placeholder.png)
+![Trade Query](./vite-comtrade-explorer/src/assets/query.png)
 _Trade Data Query Interface with Batch Mode_
 
-![Reference Tables](https://github.com/user-attachments/assets/reference-placeholder.png)
+![Reference Tables](./vite-comtrade-explorer/src/assets/reference.png)
 _Reference Data & Code Converter_
 
-![Settings](https://github.com/user-attachments/assets/settings-placeholder.png)
+![Settings](./vite-comtrade-explorer/src/assets/settings.png)
 _Settings & API Key Management_
 
 ## Prerequisites

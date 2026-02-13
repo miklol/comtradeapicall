@@ -23,10 +23,10 @@ folders follows the suggested layout from [Packaging Python Project](https://pac
 ![Dashboard](./vite-comtrade-explorer/src/assets/dashboard.png)
 _Dashboard Overview_
 
-![Trade Query](./vite-comtrade-explorer/src/assets/query.png)
+![Trade Query](./vite-comtrade-explorer/src/assets/tradedataquery.png)
 _Trade Data Query Interface with Batch Mode_
 
-![Reference Tables](./vite-comtrade-explorer/src/assets/reference.png)
+![Reference Tables](./vite-comtrade-explorer/src/assets/referencecodes.png)
 _Reference Data & Code Converter_
 
 ![Settings](./vite-comtrade-explorer/src/assets/settings.png)
